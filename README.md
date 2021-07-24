@@ -1,5 +1,5 @@
 - 👋 <Hello World! I’m @Karina-Lima>
-- 🔎 Interested in Front-End and Back-End
+- 🔎 Interest in Front-End and Back-End
 - 💻 Learning HTML, JS, CSS, PHP...
 
 - 🎬 #1-Series-Fan
