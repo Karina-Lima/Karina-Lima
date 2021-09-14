@@ -39,8 +39,6 @@
 
 </p>
 
-<br>
-
 <div align="center">
   <h2>🖖 Live long and prosper! 🖖</h2>
 </div>
