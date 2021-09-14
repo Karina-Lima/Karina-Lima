@@ -39,6 +39,13 @@
 
 </p>
 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Karina-Lima&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karina-Lima&hide=TeX&layout=compact)
+
+<br>
+
 <div align="center">
   <h2>🖖 Live long and prosper! 🖖</h2>
 </div>
