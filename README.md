@@ -3,8 +3,6 @@
   <img src="https://raw.githubusercontent.com/Karina-Lima/Karina-Lima/main/banner.png" width="100%" />
 </div>
 
-<br>
-
 <div align="center">
   <h3><strong>✨Heey! It's so good to see you here!✨</strong></h3>
 </div>
