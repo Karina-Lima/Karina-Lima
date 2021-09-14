@@ -21,7 +21,7 @@
   <p align="center"><strong>🚀Learning: </strong>Java, NodeJS, JavaScript, PHP, Python</strong></p>
 
 <hr></hr> 
-<br><br>
+<br>
 
 <p align="center">
   
