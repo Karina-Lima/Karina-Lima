@@ -7,7 +7,7 @@
   <h3><strong>✨Heey! It's so good to see you here!✨</strong></h3>
 </div>
 
-  <p align="center"><br>🤓 I'm Karina, a big nerd and <strong>programming and web development student.</strong></p>
+  <p align="center"><br>🤓 I'm Karina, a big nerd and <strong>programming and System Information student.</strong></p>
 
   <p align="center">🌐 My code is mainly focused on web development with <strong>Javascript and PHP</strong></p>
 
@@ -16,9 +16,9 @@
 
   <p align="center"><strong>💼Skills: </strong>Overcome every obstacles with a big smile.</strong></p>
 
-  <p align="center"><strong>👩‍💻Stack:</strong> Back-End: PHP; Front-End: JavaScript, HTML, CSS</p>
+  <p align="center"><strong>👩‍💻Stack:</strong> Back-End: Java; Front-End: JavaScript, HTML, CSS</p>
 
-  <p align="center"><strong>🚀Learning: </strong>Java, NodeJS, JavaScript, PHP, Python</strong></p>
+  <p align="center"><strong>🚀Learning: </strong>Java, NodeJS, Python</strong></p>
 
 <hr></hr> 
 <br>
