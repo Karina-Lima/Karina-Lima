@@ -9,8 +9,6 @@
 
   <p align="center"><br>🤓 I'm Karina, a big nerd and <strong>programming and System Information student.</strong></p>
 
-  <p align="center">🌐 My code is mainly focused on web development with <strong>Javascript and PHP</strong></p>
-
 <hr></hr>
 <br>
 
