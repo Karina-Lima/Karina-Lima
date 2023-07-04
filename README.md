@@ -7,12 +7,10 @@
   <h3><strong>✨Heey! It's so good to see you here!✨</strong></h3>
 </div>
 
-  <p align="center"><br>🤓 I'm Karina, a big nerd and <strong>programming and System Information student.</strong></p>
+  <p align="center"><br>I'm Karina, a <strong>programming and System Information student.</strong></p>
 
 <hr></hr>
 <br>
-
-  <p align="center"><strong>💼Skills: </strong>Overcome every obstacles with a big smile.</strong></p>
 
   <p align="center"><strong>👩‍💻Stack:</strong> Back-End: Java; Front-End: JavaScript, HTML, CSS</p>
 
