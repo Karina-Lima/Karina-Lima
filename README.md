@@ -1,49 +1,42 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Karina-Lima/Karina-Lima/main/banner.png" width="100%" />
+   <h2><strong>✨Oiee, seja bem vindo(a) por aqui!✨</strong></h2>
+   <img src="https://github.com/Karina-Lima/Karina-Lima/assets/87882553/b08007f7-3fb3-4444-9d5f-1ba1b41f3e9f">
 </div>
 
-<div align="center">
-  <h3><strong>✨Heey! It's so good to see you here!✨</strong></h3>
-</div>
+  <p align="justify"><br>Me chamo Karina, sou uma desenvolvedora e estudante de <strong>Sistemas de Informação.</strong> Adoro séries, música, shows, e muitooo café! Aqui compartilho alguns dos meus projetinhos entãooo, sinta-se a vontade caso queira dar uma olhadinha em algum. Aceito sugestões, feedbacks, indicações de músicas, séries, bandas... 😁</p>
 
-  <p align="center"><br>I'm Karina, a <strong>programming and System Information student.</strong></p>
-
-<hr></hr>
 <br>
 
-  <p align="center"><strong>👩‍💻Stack:</strong> Back-End: Java; Front-End: JavaScript, HTML, CSS</p>
-
-  <p align="center"><strong>🚀Learning: </strong>Java, NodeJS, Python</strong></p>
-
-<hr></hr> 
-<br>
-
-<p align="center">
+  <p align="left"><strong>👩‍💻Desenvolvimento:</strong> Web; Full-Stack.</p>
+  <p align="left"><strong>🚀Estudando: </strong>Java, NodeJS, Python.</strong></p>
   
-  <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white&color=blue" height="25"/>
- 
-  <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=blue" height="25">
+<hr></hr> 
 
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=blue" height="25"/>
 
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=blue" height="25"/>
-
-  <img src="https://img.shields.io/badge/php%20-%23563D7C.svg?&style=for-the-badge&logo=php&logoColor=white&color=blue" height="25"/>
-
-  <br>
-
-</p>
-
-<div style="display: inline_block" align="center">
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Karina-Lima&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karina-Lima&hide=TeX&layout=compact)
+### Tecnologias:
+<div display=flex>
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFAD19?style=for-the-badge&logo=javascript&logoColor=white">
+    <img alt="MySql" src="https://img.shields.io/badge/MySQL-1DAEFF?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+  
+### Office:
+<div display=flex>
+<img alt="PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-DD0031?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">  
+<img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">  
+<img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">  
 </div>
 
-<div align="center">
-  <h2>🖖 Live long and prosper! 🖖</h2>
-  <br>
+<br><br>
+
+<div style="display: inline_block" align="left">
+  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Karina-Lima&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
+&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karina-Lima&hide=TeX&layout=compact&theme=github_dark)
+
 </div>
 
 
