@@ -8,8 +8,8 @@
 
 <br>
 
-  <p align="left"><strong>👩‍💻Desenvolvimento:</strong> Web; Full-Stack.</p>
-  <p align="left"><strong>🚀Estudando: </strong>Java, NodeJS, Python.</strong></p>
+  <p align="left"><strong>👩‍💻Desenvolvimento:</strong> Full-Stack com foco em análise de dados</p>
+  <p align="left"><strong>🚀Estudando: </strong>Power BI, Python.</strong></p>
   
 <hr></hr> 
 
