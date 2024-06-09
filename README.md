@@ -4,7 +4,7 @@
    <img src="https://github.com/Karina-Lima/Karina-Lima/assets/87882553/b08007f7-3fb3-4444-9d5f-1ba1b41f3e9f">
 </div>
 
-  <p align="justify"><br>Me chamo Karina, sou uma desenvolvedora e estudante de <strong>Sistemas de Informação.</strong> Adoro séries, música, shows, e muitooo café! Aqui compartilho alguns dos meus projetinhos entãooo, sinta-se a vontade caso queira dar uma olhadinha em algum. Aceito sugestões, feedbacks, indicações de músicas, séries, bandas... 😁</p>
+  <p align="justify"><br>Me chamo Karina, sou uma desenvolvedora e estudante de <strong>Sistemas de Informação.</strong> Adoro séries, música, shows, livros, e muitooo café! Aqui compartilho alguns dos meus projetinhos entãooo, sinta-se a vontade caso queira dar uma olhadinha em algum. Aceito sugestões, feedbacks, indicações de músicas, séries, bandas... 😁</p>
 
 <br>
 
