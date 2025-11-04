@@ -1,25 +1,26 @@
 
 <div align="center">
    <h2><strong>✨Oiee, seja bem vindo(a) por aqui!✨</strong></h2>
-   <img src="https://github.com/Karina-Lima/Karina-Lima/assets/87882553/b08007f7-3fb3-4444-9d5f-1ba1b41f3e9f">
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3gzNXAxenl2bjhpNnFqNjk1dDEyNWt6bTl1dm9zdXlpczhzcHVlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lPVuk4upjikZb2/giphy.gif">
 </div>
 
-  <p align="justify"><br>Me chamo Karina, sou uma desenvolvedora e estudante de <strong>Ciência de Computação</strong> Adoro séries, música, shows, livros, e muitooo café! Aqui compartilho alguns dos meus projetinhos entãooo, sinta-se a vontade caso queira dar uma olhadinha em algum. Aceito sugestões, feedbacks, indicações de músicas, séries, bandas... 😁</p>
+  <p align="justify"><br>Eu sou a Karina, sou desenvolvedora e estudante de <strong>Ciência de Computação</strong> Gosto muito de filmes, séries, música, livros, e café, seguindo todos os clichês do pessoal de TI! Bom, por aqui eu compartilho alguns dos meus projetinhos entãooo, sinta-se a vontade caso queira dar uma olhadinha em algum. Aceito sugestões, feedbacks, indicações de músicas, filmes, séries... </p>
 
 <br>
 
-  <p align="left"><strong>👩‍💻Desenvolvimento:</strong> Full-Stack com foco em análise de dados</p>
-  <p align="left"><strong>🚀Estudando: </strong>Python, Desenvolvimento em Cloud.</strong></p>
+  <p align="left"><strong>👩‍💻Atuação Principal:</strong> Engenharia de Dados e BI</p>
+  <p align="left"><strong>🚀Estudando: </strong>PySpark, Databricks, Azure, Machine Learning</strong></p>
   
 <hr></hr> 
 
 
 ### Tecnologias:
 <div display=flex>
+   <img alt="Python" src="https://img.shields.io/badge/Pyhton-FFAD19?style=for-the-badge&logo=python&logoColor=white">
+   <img alt="MySql" src="https://img.shields.io/badge/MySQL-1DAEFF?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFAD19?style=for-the-badge&logo=javascript&logoColor=white">
-    <img alt="MySql" src="https://img.shields.io/badge/MySQL-1DAEFF?style=for-the-badge&logo=mysql&logoColor=white">
+    
 </div>
   
 ### Office:
@@ -27,6 +28,7 @@
 <img alt="PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-DD0031?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">  
 <img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">  
 <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">  
+<img alt="Excel" src="https://img.shields.io/badge/Power Bi-FFAD19?style=for-the-badge&logo=microsoft-powerbi&logoColor=white">  
 </div>
 
 <br><br>
