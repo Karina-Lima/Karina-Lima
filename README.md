@@ -4,7 +4,7 @@
    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3gzNXAxenl2bjhpNnFqNjk1dDEyNWt6bTl1dm9zdXlpczhzcHVlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lPVuk4upjikZb2/giphy.gif">
 </div>
 
-  <p align="justify"><br>Eu prazer eu sou a Karina, sou desenvolvedora e estudante de <strong>Ciência de Computação.</strong> Gosto muito de filmes, séries, música, livros, e café, seguindo todos os clichês do pessoal de informática! Bom, por aqui eu compartilho alguns dos meus projetinhos entãooo, sinta-se a vontade caso queira dar uma olhadinha em algum. Aceito sugestões, feedbacks, indicações de músicas, filmes, séries... </p>
+  <p align="justify"><br>Eu prazer eu sou a Karina, sou desenvolvedora e estudante de <strong>Ciência de Computação.</strong> Gosto muito de filmes, séries, música, livros, e tomo muitooo café, seguindo todos os clichês do pessoal de TI. Bom, por aqui eu compartilho alguns dos meus projetinhos entãooo, sinta-se a vontade caso queira dar uma olhadinha em algum. Sempre aceito sugestões, feedbacks, e claro, indicações de músicas, filmes, séries...</p>
 
 <br>
 
